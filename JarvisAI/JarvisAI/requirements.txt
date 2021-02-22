@@ -1,0 +1,7 @@
+gtts
+playsound
+SpeechRecognition
+pipwin
+lxml
+beautifulsoup4
+wikipedia
